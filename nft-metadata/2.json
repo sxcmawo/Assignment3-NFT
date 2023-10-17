@@ -1,0 +1,15 @@
+{
+    "description": "AI generated images of alien cats and team member names written in Paint",
+    "image": "ipfs://QmWSJfFCbiGrTtF9w88FpbVj9eQyhhEdGYMuRu2ZECV9VW/2.png",
+    "name": "Alien Cat #2",
+    "attributes": [
+        {
+            "trait_type": "Base",
+            "value": "High"
+        },
+        {
+            "trait_type": "Level",
+            "value": 5
+        }
+    ]
+}
